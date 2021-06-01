@@ -1,0 +1,2 @@
+1/6: Update cinema room, moviecategory. 
+Thêm entity ở validate cho toàn bộ activity (ver5)
