@@ -10,3 +10,5 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 11:00 3/6: 
 - Thêm update và delete cinemaroom sequence 
 - Thêm search theater và search theater system sequence
+
+2:50 04/06/2021: Hoàn thành use case - chuẩn bị chuyển sang sequence
