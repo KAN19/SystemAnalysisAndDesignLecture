@@ -12,3 +12,8 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Thêm search theater và search theater system sequence
 
 2:50 04/06/2021: Hoàn thành use case - chuẩn bị chuyển sang sequence
+
+5:00pm 4/6:
+- Xong sequence diagram của MovieCategory 
+- Sửa lại Sequence Overview của Search Theater, CinemaRoom. Vì phần search sequence thay vì là 2 diagram, thì thành 1 nhưng có 2 option
+- Xong sequence diagram Movie (10pm) 
