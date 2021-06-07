@@ -18,6 +18,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Sửa lại Sequence Overview của Search Theater, CinemaRoom. Vì phần search sequence thay vì là 2 diagram, thì thành 1 nhưng có 2 option
 - Xong sequence diagram Movie (10pm) 
 
-10am 7/6: 
+11am 7/6: 
 - Sign in admins sequence
-- Sign up, Sign in customer sequence
+- Sign up, Sign in, Explore movie, Search sequence (customer)
