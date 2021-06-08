@@ -21,3 +21,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 11am 7/6: 
 - Sign in admins sequence
 - Sign up, Sign in, Explore movie, Search sequence (customer)
+
+8/6:
+- Finish sequence of customers
