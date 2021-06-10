@@ -31,4 +31,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 10/6 15h30:
 - Customer manage sequence
-- Fix typo 
+- Fix typo
+11/6 0h30
+- Xong hết toàn bộ sequence, sang class diagram
