@@ -27,3 +27,4 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 10/6: 
 - Showtime sequence
+- Chuẩn bị qua class diagram
