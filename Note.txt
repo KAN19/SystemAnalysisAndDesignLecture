@@ -24,3 +24,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 8/6:
 - Finish sequence of customers
+
+10/6: 
+- Showtime sequence
