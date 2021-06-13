@@ -36,4 +36,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Xong hết toàn bộ sequence, sang class diagram
 
 13/6: 
-- Customer Sign In, Sign up class diagram
+- Customer: Sign In, Sign up, Explore movie, Search Movie class diagram
+- Admins: Sign In class diagram
+
