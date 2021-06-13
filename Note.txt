@@ -34,3 +34,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Fix typo
 11/6 0h30
 - Xong hết toàn bộ sequence, sang class diagram
+
+13/6: 
+- Customer Sign In, Sign up class diagram
