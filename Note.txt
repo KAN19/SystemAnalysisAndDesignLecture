@@ -41,3 +41,4 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 14/6:
 - Customer: Recreate password, payment history, manage profile class diagram. Còn Book ticket
+- Admins: Movie category class diagram
