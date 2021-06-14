@@ -39,3 +39,5 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Customer: Sign In, Sign up, Explore movie, Search Movie class diagram
 - Admins: Sign In class diagram
 
+14/6:
+- Customer: Recreate password class diagram
