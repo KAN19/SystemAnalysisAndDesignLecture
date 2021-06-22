@@ -44,4 +44,4 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Admins: Movie category class diagram
 
 20/6: 
-- Admins: Movie, Theater System class diagram
+- Admins: Movie, Theater System class diagramm
