@@ -55,3 +55,5 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 26/6:
 - Screening room, showtime class diagram
+- Sửa lại xíu class
+- Booking class diagram: Đang phân vân invoice và customer có association gì hogn
