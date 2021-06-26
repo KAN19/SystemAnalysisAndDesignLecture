@@ -53,3 +53,5 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 25/06: 
 - Sửa lại sequence cho trùng với app (80%)
 
+26/6:
+- Screening room,
