@@ -64,3 +64,7 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 2/7: 
 - Sửa lại booking sequence: Chia thành 2 sequence nhỏ vì việc booking nó nằm ở 2 page. 
+
+3/7L 00h30: 
+- Sửa lại showtime. Sequence có sử dụng thêm movie để lấy thông tin. Kiểm tra lại class diagram của showtime để thêm mối quan hệ là 1 showtime chỉ có 1 phim nhưng 1 phim thì có nhiều showtime (showtime 1 - n movie)
+- Cập nhật báo cáo sequence mới 
