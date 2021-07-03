@@ -70,4 +70,4 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Cập nhật báo cáo sequence mới 
 
 9am: 3/7
-- Class diagram booking ticket. 
+- Class diagram booking ticket. Tổng check class diagram. 
