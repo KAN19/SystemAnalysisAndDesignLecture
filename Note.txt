@@ -71,3 +71,4 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 9am: 3/7
 - Class diagram booking ticket. Tổng check class diagram. 
+- Update chính tả chỗ 2_Book tickets sequence: Số 13, từ make pagement thành make payment
