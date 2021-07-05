@@ -75,5 +75,5 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Update 2_Book tickets sequence: Bỏ entity Theater System và Theater
 
 5/7: 
-- Admin class overview
+- Admin, customer class overview
 - Booking class diagram. 
