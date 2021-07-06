@@ -79,4 +79,5 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Booking class diagram. 
 
 6/7:
-- Entity class 
+- Entity class
+- Movie state diagram
