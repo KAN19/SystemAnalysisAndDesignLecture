@@ -77,3 +77,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 5/7: 
 - Admin, customer class overview
 - Booking class diagram. 
+
+6/7:
+- Entity class 
