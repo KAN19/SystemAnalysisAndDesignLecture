@@ -80,4 +80,4 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 6/7:
 - Entity class
-- Movie state diagram
+- Movie, showtime state diagram
