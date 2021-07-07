@@ -81,3 +81,7 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 6/7:
 - Entity class
 - Movie, showtime state diagram
+
+7/7: 
+- Them class, state diagram vao Bao cao. (thieu Manage user class diagram) 
+- Chuan bi lam class specification
