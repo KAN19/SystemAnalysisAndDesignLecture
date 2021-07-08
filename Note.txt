@@ -85,3 +85,8 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 7/7: 
 - Them class, state diagram vao Bao cao. (thieu Manage user class diagram) 
 - Chuan bi lam class specification
+
+9/7:
+- Fix book ticket at bonus-point & email
+- add analysis revenue use-case, sequence, activity
+- Còn manage user class => đặc tả, vẽ lại RD 
