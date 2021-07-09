@@ -96,3 +96,4 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 
 10/7:
 - thêm relational diagram
+- Viết báo cáo phần môi trường, chưa viết conclusion (Kiệt thử viết đi em)
