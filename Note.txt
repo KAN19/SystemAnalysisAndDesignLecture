@@ -90,3 +90,6 @@ Thêm entity ở validate cho toàn bộ activity (ver5)
 - Fix book ticket at bonus-point & email
 - add analysis revenue use-case, sequence, activity
 - Còn manage user class => đặc tả, vẽ lại RD 
+
+11:00 9/7:
+- Class specification (Dấu vàng nghĩa là cần coi lại)
